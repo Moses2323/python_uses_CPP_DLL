@@ -1,0 +1,8 @@
+/simple_dll/.vs/*
+/simple_dll/Debug/*
+/simple_dll/simple_dll/Debug/*
+/simple_dll/simple_dll/x64/*
+/simple_dll/x64/*
+/simple_dll/test_launcher/Debug/*
+/simple_dll/test_launcher/x64/*
+/simple_dll.dll
